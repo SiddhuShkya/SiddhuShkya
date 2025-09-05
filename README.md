@@ -36,7 +36,7 @@ _AI & Data Enthusiast from Nepal 🇳🇵_
 
 ---
 
-### 🐍 Contribution Graph (2024–2025)
+### 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-light" />
