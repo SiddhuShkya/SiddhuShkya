@@ -36,9 +36,15 @@ _AI & Data Enthusiast from Nepal 🇳🇵_
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Graph (2024 & 2025)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-light" />
-  <img src="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-dark&year=2024" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-light&year=2024" />
+  <img src="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?year=2024" alt="Snake animation 2024" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-dark&year=2025" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-light&year=2025" />
+  <img src="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?year=2025" alt="Snake animation 2025" />
 </picture>
