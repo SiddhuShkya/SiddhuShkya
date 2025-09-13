@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Siddhartha Shakya  
 
 ## 🚀 About Me  
-I'm an **AI & Data Enthusiast from Nepal 🇳🇵**, passionate about exploring the intersection of **artificial intelligence, data science, and system-level programming**.  
-I enjoy working on projects that blend **mathematical thinking, problem-solving, and practical implementation**.  
+I'm an **AI & Data Enthusiast from Nepal 🇳🇵**, passionate about exploring the intersection of **artificial intelligence and data science**.  
+I love **solving problems through coding** and enjoy working on projects that combine **mathematical thinking, creativity, and practical implementation**.  
 
 ## 🌱 Currently Learning  
 - **LangChain & RAG** (building LLM-powered applications)  
@@ -10,7 +10,6 @@ I enjoy working on projects that blend **mathematical thinking, problem-solving,
 - **Docker** (containerization & deployment)  
 - **MCP (Model Context Protocol)** (next-gen AI application integration)  
 - **Machine Learning & Deep Learning** (building smarter models)  
-- **System Programming** (C, Linux)  
 
 ## 💡 Interests & Projects  
 - Building ML-powered tools for **sentiment analysis & NLP**  
@@ -29,6 +28,13 @@ I enjoy working on projects that blend **mathematical thinking, problem-solving,
 
 ---
 
+## 🧩 LeetCode Stats  
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/SiddhuShkya?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
 ### 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddhuShkya&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="stats graph" />
@@ -41,6 +47,7 @@ I enjoy working on projects that blend **mathematical thinking, problem-solving,
 📫 Email: [siddhuushakyaa@gmail.com](mailto:siddhuushakyaa@gmail.com)  
 💻 GitHub: [@SiddhuShkya](https://github.com/SiddhuShkya)  
 🔗 LinkedIn: [Siddhartha Shakya](https://www.linkedin.com/in/siddhartha-shakya-5665a0236/)  
+🧑‍💻 LeetCode: [SiddhuShkya](https://leetcode.com/SiddhuShkya)  
 
 ---
 
