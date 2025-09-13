@@ -30,7 +30,14 @@ I love **solving problems through coding** and enjoy working on projects that co
 
 ## 🧩 LeetCode Stats  
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/SiddhuShkya?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats" />
+
+  <!-- Dynamic stats card -->
+  <img src="https://leetcard.jacoblin.cool/S_Shakya?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats" />
+
+  <!-- Fallback badge linking to profile -->
+  <br/><br/>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-S_Shakya-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/S_Shakya)
+
 </div>
 
 ---
