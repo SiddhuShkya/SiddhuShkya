@@ -41,7 +41,6 @@ I enjoy working on projects that blend **mathematical thinking, problem-solving,
 📫 Email: [siddhuushakyaa@gmail.com](mailto:siddhuushakyaa@gmail.com)  
 💻 GitHub: [@SiddhuShkya](https://github.com/SiddhuShkya)  
 🔗 LinkedIn: [Siddhartha Shakya](https://www.linkedin.com/in/siddhartha-shakya-5665a0236/)  
-📝 Blogs: [Dev.to](https://dev.to/SiddhuShkya)  
 
 ---
 
