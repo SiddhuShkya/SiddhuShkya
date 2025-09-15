@@ -62,5 +62,5 @@ I love **solving problems through coding** and enjoy working on projects that co
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-light" />
-  <img src="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.gif" alt="Snake animation showing contributions from 2024–2025" />
+  <img src="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.gif" alt="Snake animation showing contributions from 2023–2025" />
 </picture>
