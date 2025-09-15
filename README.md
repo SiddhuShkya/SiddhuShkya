@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddhartha Shakya  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&color=FFFFFF&lines=👋+Hi%2C+I'm+Siddhartha+Shakya)](https://git.io/typing-svg)
 
 ## 🚀 About Me  
 I'm an **AI & Data Enthusiast from Nepal 🇳🇵**, passionate about exploring the intersection of **artificial intelligence and data science**.  
