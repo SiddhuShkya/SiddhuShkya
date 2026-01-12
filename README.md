@@ -27,33 +27,6 @@ I'm an **AI & Data Enthusiast from Nepal 🇳🇵**, passionate about exploring 
 
 ---
 
-## 📊 Stats  
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <!-- LeetCode Stats -->
-      <img src="https://leetcard.jacoblin.cool/S_Shakya?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats" width="400" />
-      <br/><br/>
-      <a href="https://leetcode.com/S_Shakya">
-        <img src="https://img.shields.io/badge/LeetCode-S_Shakya-orange?logo=leetcode&style=for-the-badge" alt="LeetCode Profile" />
-      </a>
-    </td>
-    <td align="center">
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=SiddhuShkya&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddhuShkya&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🌐 Connect with Me  
 📫 Email: [siddhuushakyaa@gmail.com](mailto:siddhuushakyaa@gmail.com)  
 💻 GitHub: [@SiddhuShkya](https://github.com/SiddhuShkya)  
@@ -61,10 +34,3 @@ I'm an **AI & Data Enthusiast from Nepal 🇳🇵**, passionate about exploring 
 🧑‍💻 LeetCode: [SiddhuShkya](https://leetcode.com/SiddhuShkya)  
 
 ---
-
-### 🐍 Contribution Graph  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.svg?palette=github-light" />
-  <img src="https://raw.githubusercontent.com/SiddhuShkya/SiddhuShkya/output/snake.gif" alt="Snake animation showing contributions from 2023–2025" />
-</picture>
