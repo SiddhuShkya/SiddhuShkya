@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=800&color=FFFFFF&lines=👋+Hi%2C+I'm+Siddhartha+Shakya)](https://git.io/typing-svg)
 
-I'm an **AI & Data Enthusiast from Nepal 🇳🇵**, passionate about exploring the intersection of **artificial intelligence and data science**. I love **solving problems through coding** and enjoy working on projects that combine **mathematical thinking, creativity, and practical implementation**.  
+An AI & Data enthusiast from Nepal 🇳🇵, aspiring to build a career in **AI (Artificial Intelligence)** while actively working toward a strong foundation in **data engineering**. Motivated to learn how data is collected, processed, and transformed into reliable systems that support intelligent models. Enjoys problem-solving through coding, mathematical thinking, and hands-on projects, with a focus on continuous learning and practical implementation to grow into a skilled data professional 🚀📚
 
 ## 🌱 Currently Learning  
 - **Data Engineering** (building robust data pipelines)  
