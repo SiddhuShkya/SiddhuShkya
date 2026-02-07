@@ -1,0 +1,42 @@
+name: Update CV Last Updated Date
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+  repository_dispatch:
+    types: [cv_updated]
+  push:
+    branches:
+      - main
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Get Last Update Date from autoCV
+        id: get_date
+        run: |
+          # Fetch the last commit date of the 'build' branch in 'autoCV'
+          # We use the GitHub API to get the latest commit on the 'build' branch
+          DATE=$(curl -s "https://api.github.com/repos/SiddhuShkya/autoCV/branches/build" | jq -r '.commit.commit.committer.date')
+
+          # Format the date (e.g., Feb 07, 2026)
+          FORMATTED_DATE=$(date -d "$DATE" +"%b %d, %Y")
+          echo "date=$FORMATTED_DATE" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          NEW_DATE="${{ steps.get_date.outputs.date }}"
+          sed -i "s/<!-- cv_date_start -->.*<!-- cv_date_end -->/<!-- cv_date_start -->$NEW_DATE<!-- cv_date_end -->/" README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update CV last updated date to ${{ steps.get_date.outputs.date }}" || echo "No changes to commit"
+          git push

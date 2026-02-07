@@ -2,6 +2,17 @@
 
 An AI & Data enthusiast from Nepal 🇳🇵, aspiring to build a career in **AI (Artificial Intelligence)** while actively working toward a strong foundation in **data engineering**. Motivated to learn how data is collected, processed, and transformed into reliable systems that support intelligent models. Enjoys problem-solving through coding, mathematical thinking, and hands-on projects, with a focus on continuous learning and practical implementation to grow into a skilled data professional 🚀📚
 
+---
+
+## 📄 My Resume & CV
+<p align="left">
+  <a href="https://github.com/SiddhuShkya/autoCV/raw/build/cv.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+  <br>
+  <sub><i>Last Updated: <!-- cv_date_start -->Feb 07, 2026<!-- cv_date_end --></i></sub>
+</p>
+
 ## 🌱 Currently Learning  
 - **Data Engineering** (building robust data pipelines)  
 - **Data Science** (extracting insights from data)  
