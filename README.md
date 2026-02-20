@@ -6,7 +6,7 @@ An AI & Data enthusiast from Nepal 🇳🇵, aspiring to build a career in **AI 
 
 ## 🎓 My Resume & CV
 <p align="left">
-  <a href="https://github.com/SiddhuShkya/autoCV/blob/build/multi-page-cv.pdf">
+  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/multi-page-cv.pdf">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
   <br>
