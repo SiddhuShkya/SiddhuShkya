@@ -6,11 +6,11 @@ An AI & Data enthusiast from Nepal 🇳🇵, aspiring to build a career in **AI 
 
 ## 🎓 My Resume & CV
 <p align="left">
-  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/multi-page-cv.pdf">
+  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/one-page-cv.pdf">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
   <br>
-  <sub><i>Last Updated: <!-- cv_date_start -->Feb 07, 2026<!-- cv_date_end --></i></sub>
+  <sub><i>Last Updated: <!-- cv_date_start -->Feb 27, 2026<!-- cv_date_end --></i></sub>
 </p>
 
 ## 🌱 Currently Learning  
