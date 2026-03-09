@@ -1,5 +1,8 @@
 name: Update CV Last Updated Date
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
