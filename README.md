@@ -10,7 +10,7 @@ An AI & Data enthusiast from Nepal 🇳🇵, aspiring to build a career in **AI 
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
   <br>
-  <sub><i>Last Updated: <!-- cv_date_start -->Mar 09, 2026<!-- cv_date_end --></i></sub>
+  <sub><i>Last Updated: <!-- cv_date_start -->Mar 10, 2026<!-- cv_date_end --></i></sub>
 </p>
 
 ## 🌱 Currently Learning  
