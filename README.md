@@ -15,11 +15,11 @@
 <div align="center">
   <table>
     <tr>
+    <td align="center" valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhuShkya&theme=dracula" alt="Top Languages" border="2" bordercolor="#e4e2e2" />
+      </td>
       <td align="center">
         <img src="https://streak-stats.demolab.com/?user=SiddhuShkya&theme=dracula" alt="GitHub Streak" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhuShkya&theme=dracula" alt="Top Languages" border="2" bordercolor="#e4e2e2" />
       </td>
     </tr>
   </table>
