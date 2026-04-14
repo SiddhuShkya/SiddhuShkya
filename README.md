@@ -1,17 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=800&color=FFFFFF&lines=👋+Hi%2C+I'm+Siddhartha+Shakya)](https://git.io/typing-svg)
 
-## 🎓 My Resume & CV
-
-<p align="left">
-  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/one-page-cv.pdf">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
-  <br>
-  <sub><i>Last Updated: <!-- cv_date_start -->Apr 09, 2026<!-- cv_date_end --></i></sub>
-</p>
-
-## 📊 My GitHub Stats
-
 <div align="center">
   <table>
     <tr>
@@ -24,6 +12,16 @@
     </tr>
   </table>
 </div>
+
+## 🎓 My Resume & CV
+
+<p align="left">
+  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/one-page-cv.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+  <br>
+  <sub><i>Last Updated: <!-- cv_date_start -->Apr 09, 2026<!-- cv_date_end --></i></sub>
+</p>
 
 ## 🌱 Currently Learning  
 - **Data Engineering** (building robust data pipelines)  
