@@ -16,11 +16,11 @@
 ## 🎓 My Resume & CV
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/one-page-cv.pdf">
+  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/cv.pdf">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
   <br>
-  <sub><i>Last Updated: <!-- cv_date_start -->Apr 09, 2026<!-- cv_date_end --></i></sub>
+  <sub><i>Last Updated: <!-- cv_date_start -->May 31, 2026<!-- cv_date_end --></i></sub>
 </p>
 
 ## 🌱 Currently Learning  
