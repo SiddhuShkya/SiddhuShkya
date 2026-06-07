@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
   <br>
-  <sub><i>Last Updated: <!-- cv_date_start -->Jun 05, 2026<!-- cv_date_end --></i></sub>
+  <sub><i>Last Updated: <!-- cv_date_start -->Jun 06, 2026<!-- cv_date_end --></i></sub>
 </p>
 
 ## 🌱 Currently Learning  
