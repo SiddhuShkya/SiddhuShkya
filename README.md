@@ -23,21 +23,6 @@
   <sub><i>Last Updated: <!-- cv_date_start -->Jun 06, 2026<!-- cv_date_end --></i></sub>
 </p>
 
-## 🌱 Currently Learning  
-- **Data Engineering** (building robust data pipelines)  
-- **Data Science** (extracting insights from data)  
-- **Airflow** (orchestrating complex workflows)  
-- **MLflow** (managing the ML lifecycle)  
-- **Docker** (containerization & deployment)  
-- **Machine Learning & Deep Learning** (building smarter models)  
-
-## 💡 Interests & Projects  
-- Building **MLOps pipelines** with **MLflow** and **Airflow**  
-- Developing **scalable data architectures** and **ETL pipelines**  
-- Creating **predictive models** and **Deep Learning applications**  
-- Automating workflows with **Docker** and **CI/CD**  
-- Passionate about **open-source** and **real-world applications of AI**  
-
 ## 🛠 Tech Stack  
 - **AI & Data Science:** Python (Scikit-Learn, Pandas, NumPy, PyTorch ) & C/C++
 - **Database:** MySQL, MongoDB, PostgreSQL
