@@ -35,7 +35,7 @@
 
 ## 🌐 Connect with Me  
 📫 Email: [siddhuushakyaa@gmail.com](mailto:siddhuushakyaa@gmail.com)  
-🔗 LinkedIn: [Siddhartha Shakya](https://www.linkedin.com/in/siddhartha-shakya-5665a0236/)  
+🔗 LinkedIn: [Siddhartha Shakya](https://www.linkedin.com/in/sidshkya/)  
 🧑‍💻 LeetCode: [SiddhuShkya](https://leetcode.com/SiddhuShkya)  
 
 ---
