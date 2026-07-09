@@ -16,10 +16,10 @@
 ## 🎓 My Resume & Portfolio
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/cv.pdf">
+  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
-  <a href="https://siddhushkya.github.io/my-portfolio/">
+  <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Website">
   </a>
   <br>
@@ -37,7 +37,7 @@
 ---
 
 ## 🌐 Connect with Me  
-🌐 Portfolio: [siddhushkya.github.io/my-portfolio](https://siddhushkya.github.io/my-portfolio/)  
+🌐 Portfolio: <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">siddhushkya.github.io/my-portfolio</a>  
 📫 Email: [siddhuushakyaa@gmail.com](mailto:siddhuushakyaa@gmail.com)  
 🔗 LinkedIn: [Siddhartha Shakya](https://www.linkedin.com/in/sidshkya/)  
 🧑‍💻 LeetCode: [SiddhuShkya](https://leetcode.com/SiddhuShkya)  
