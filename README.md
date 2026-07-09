@@ -13,11 +13,14 @@
   </table>
 </div>
 
-## 🎓 My Resume & CV
+## 🎓 My Resume & Portfolio
 
 <p align="left">
   <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/cv.pdf">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+  <a href="https://siddhushkya.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Website">
   </a>
   <br>
   <sub><i>Last Updated: <!-- cv_date_start -->Jul 08, 2026<!-- cv_date_end --></i></sub>
@@ -34,6 +37,7 @@
 ---
 
 ## 🌐 Connect with Me  
+🌐 Portfolio: [siddhushkya.github.io/my-portfolio](https://siddhushkya.github.io/my-portfolio/)  
 📫 Email: [siddhuushakyaa@gmail.com](mailto:siddhuushakyaa@gmail.com)  
 🔗 LinkedIn: [Siddhartha Shakya](https://www.linkedin.com/in/sidshkya/)  
 🧑‍💻 LeetCode: [SiddhuShkya](https://leetcode.com/SiddhuShkya)  
