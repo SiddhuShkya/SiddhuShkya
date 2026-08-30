@@ -5,6 +5,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddhuShkya&theme=dracula" alt="Top Languages" />
 </p>
 
+## 🎓 My Resume & Portfolio
+
+<p align="left">
+  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/SIDDHARTHA_SHAKYA_ATS_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+  <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Website">
+  </a>
+  <br>
+  <sub><i>Last Updated: <!-- cv_date_start -->Jul 10, 2026<!-- cv_date_end --></i></sub>
+</p>
+
 ## 🛠 Tech Stack  
 
 <p align="center">
@@ -30,21 +43,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
-
-## 🎓 My Resume & Portfolio
-
-<p align="left">
-  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
-  <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Website">
-  </a>
-  <br>
-  <sub><i>Last Updated: <!-- cv_date_start -->Jul 10, 2026<!-- cv_date_end --></i></sub>
-</p>
-
----
 
 ## 🌐 Connect with Me  
 🌐 Portfolio: <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">siddhushkya.github.io/my-portfolio</a>  
