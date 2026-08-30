@@ -44,7 +44,23 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## 🌐 Connect with Me  
+## 🎓 My Resume & Portfolio
+
+<p align="left">
+  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+  <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Website">
+  </a>
+  <br>
+  <sub><i>Last Updated: <!-- cv_date_start -->Aug 08, 2026<!-- cv_date_end --></i></sub>
+</p>
+
+---
+
+
+## 🌐 Connect with Me   
 🌐 Portfolio: <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">siddhushkya.github.io/my-portfolio</a>  
 📫 Email: [siddhuushakyaa@gmail.com](mailto:siddhuushakyaa@gmail.com)  
 🔗 LinkedIn: [Siddhartha Shakya](https://www.linkedin.com/in/sidshkya/)  
