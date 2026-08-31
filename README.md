@@ -44,19 +44,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## 🎓 My Resume & Portfolio
-
-<p align="left">
-  <a href="https://raw.githubusercontent.com/SiddhuShkya/autoCV/build/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
-  <a href="https://siddhushkya.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Website">
-  </a>
-  <br>
-  <sub><i>Last Updated: <!-- cv_date_start -->Aug 30, 2026<!-- cv_date_end --></i></sub>
-</p>
-
 ---
 
 
